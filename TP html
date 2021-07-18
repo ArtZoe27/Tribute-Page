@@ -1,0 +1,27 @@
+<div id="main">
+  <h1 id="title">Tribute page to Stephen Hawking</h1>
+      <p><br />Stephen William Hawking, born January 8th, 1942 in Oxford, England. He was an English theoretical physicist, cosmologist, and author. He was famous for his work on physics of black holes, general relativity, and writing a best selling book titled <cite> A Brief History of Time: From the Big Bang to Black Holes</cite>. In the early 1960's Hawking developed an incurable degenerative neuromuscular disease but this never stopped him from working. Hawking died on March 14th, 2018. I found his work and personal story extemely inspiring. For this reason, is why I admire Stephen Hawking. I hope to meet him in another life time.</p>
+  
+  <div id="img-div">
+    <img id="image" alt="Stephen Hawking in space image" src="https://cdn.britannica.com/s:690x388,c:crop/52/126652-050-FD9AD7CF/gravity-Stephen-W-Hawking-Boeing-727-April-2007.jpg" />
+    
+    
+    <div id="tribute-info">
+      <h3><strong>A Brief Biography on Stephen Hawking's life</strong></h3>
+       <ul>
+        <li><strong>1940's</strong> - Birth and Childhood</li>
+        <li><strong>1960's</strong> - Graduated from Oxford and moved to Campbridge</li>
+        <li><strong>Mid 60's to early 70's</strong> - Serious career work</li>
+        <li><strong>1970's</strong> - He was writing the rulebook for black holes</li>
+        <li><strong>1980's</strong> - A health crisis and authorial success</li>
+        <li><strong>1990's</strong> - Publishing success</li>
+        <li><strong>2000's</strong> - Debates and Bets</li>
+        <li><strong>2010's</strong> - "It has been a glorious time to be alive"</li>
+      </ul>
+      
+      <i>"I am an optimist and I believe that we can create AI for the good of the world. That it can work in harmony with us. We simply need to be aware of the dangers, identify them, employ the best possible practice and management, and prepare for its consequences well in advance."</i> <br><br>
+      <i>--Web Summit Conference, 2017</i>
+    </div> 
+    
+    <h5>Read more about <a id="tribute-link" target="_blank" href="https://www.hawking.org.uk/biography">Stephen Hawking</h5>
+</div>
